@@ -1,0 +1,31 @@
+.float {
+    float:left;
+    width:120px;
+    height:120px;
+    padding:20px;
+    border-radius: 25px;
+    margin:20px;
+    color:white;
+}
+body {
+    color:black;
+}
+.purple {
+    background-color: purple;
+   
+}
+.right {
+    float:right;
+    padding-top: 10px;
+}
+.outer {
+    width:420px;
+    float:none;
+}
+.pp {
+    float:none;
+    width:200px;
+    height:100px;
+    margin-left: 15px;
+}
+  

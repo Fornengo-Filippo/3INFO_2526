@@ -1,0 +1,14 @@
+table {
+    text-align: center;
+    border:20px solid lightsteelblue;
+}
+td {
+    border:1px solid black;
+}
+div {
+     border-top:1px solid black;
+}
+.img1 {
+    width:150px;
+    
+}

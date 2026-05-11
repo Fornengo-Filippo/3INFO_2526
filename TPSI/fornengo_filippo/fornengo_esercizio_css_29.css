@@ -1,0 +1,23 @@
+.left {
+    float:left;
+    width: 192px;
+    border:1px solid lightgrey ;
+    height:218px;
+    margin:3px;
+}
+div {
+     text-align: center;
+}
+.img1 {
+    width:150px;
+}
+.row {
+    width:1000px;
+    height:224px;
+    border:20px solid lightsteelblue;
+    padding:5px;
+}
+.border-tux {
+    border-top: 1px solid lightgrey    ;
+    padding:9px;
+}

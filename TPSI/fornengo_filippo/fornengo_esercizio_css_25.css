@@ -1,0 +1,13 @@
+.violet { 
+    background-color:purple;
+    color:white;
+}
+.row {
+    width: 300px;
+    height:100px;
+}
+.element {
+    height:100px;
+    width:100px;
+    float:left;
+}
